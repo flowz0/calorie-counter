@@ -36,3 +36,5 @@ function getCaloriesFromInputs(list) {
 }
 
 addEntryButton.addEventListener('click', addEntry);
+
+// 
